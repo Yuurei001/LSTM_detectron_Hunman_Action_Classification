@@ -1,12 +1,12 @@
-Flask==2.3.3
-Flask-Bootstrap==3.3.7.2
-Flask-Uploads==0.2.1  # Không có bản mới hơn
-numpy==1.23.5
-opencv-python==4.10.0.84
-pytorch-lightning==2.1.1
-torch==2.0.1
-torchvision==0.15.2
-pyyaml==6.0.1
-Werkzeug==3.0.0
-torchmetrics==1.0.1
-torchtext==0.15.2
+Flask
+Flask-Bootstrap
+Flask-Uploads
+numpy
+opencv-python
+pytorch-lightning
+torch
+torchvision
+pyyaml
+Werkzeug
+torchmetrics
+torchtext
